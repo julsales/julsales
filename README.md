@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julsales
-- 🌱 I’m currently learning HTML and Python
+- 🌱 I’m currently learning Pyhton and C
 
 <!---
 julsales/julsales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
