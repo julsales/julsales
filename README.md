@@ -4,6 +4,7 @@
  <div align="center">
   <h2> Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=julsales&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+<h2></h2><br>
   
 <img src= "https://github-readme-stats.vercel.app/api?username=julsales&theme=radical" width="46%" alt="stats graph" />
 
