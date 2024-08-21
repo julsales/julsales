@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Pyhton and C
  <div align="center">
  <br>
-  
+ <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
  [![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=julsales&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julsales&theme=highcontrast&border_radius=4.7&locale=pt_BR)](https://git.io/streak-stats)
