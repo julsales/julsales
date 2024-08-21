@@ -7,7 +7,7 @@
   
 <img src= "https://github-readme-stats.vercel.app/api?username=julsales&theme=midnight-purple" width="46%" alt="stats graph" />
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julsales&theme=highcontrast&border_radius=4.7&locale=pt_BR)](https://git.io/streak-stats)
+<img src= "https://github-readme-streak-stats.herokuapp.com?user=julsales&theme=highcontrast&border_radius=4.7&locale=pt_BR" width="49%" alt="stats graph" />
  
 </div> <br>
 
