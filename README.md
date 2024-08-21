@@ -2,7 +2,12 @@
 - 🌱 I’m currently learning Pyhton and C
  <br>
  
-<center>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julsales&theme=highcontrast&border_radius=4.7&locale=pt_BR)](https://git.io/streak-stats)</center>
+<center>
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julsales&theme=highcontrast&border_radius=4.7&locale=pt_BR)](https://git.io/streak-stats)
+ </center>
+<br>
+
 [![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=julsales)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
