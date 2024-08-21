@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @julsales
-- 🌱 I’m currently learning python, c and java
- 
+
+<div align="center">
+  <h3> <strong> Hi, I'm Júlia Sales! </strong></h3>
+  <img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif" alt="coding cat" width="25%">
+  <h3> <strong> I'm currently studying: </strong></h3>
+ <img src="https://skillicons.dev/icons?i=python,java,c">
+</div>
+ <br>
  <div align="center">
-  <h2> Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <h2> ✨ My Stats ✨ <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=julsales&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
  
 <br><h2></h2><br>
