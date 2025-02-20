@@ -10,14 +10,15 @@
  <div align="center">
   <h2> ✨ My Stats ✨ <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=julsales&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
- 
+ </div>
 <br><h2></h2><br>
-  
+
+<div align="center"> 
 <img src= "https://github-readme-stats.vercel.app/api?username=julsales&theme=radical" width="46%" alt="stats graph" />
 
 <img src= "https://github-readme-streak-stats.herokuapp.com?user=julsales&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
  
-</div> <br>
+</div>
 
 
 
