@@ -4,7 +4,9 @@
   <br>
   <img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif" alt="coding cat" width="25%">
   <h3> <strong> I'm currently studying: </strong></h3>
- <img src="https://skillicons.dev/icons?i=python,java,c,html,css,django,lua">
+ <img src="https://skillicons.dev/icons?i=lua,spring,mysql,aws">
+  <h3> <strong> Skills: </strong></h3>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,django,azure,cypress">
 </div>
  <br>
  <div align="center">
