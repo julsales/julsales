@@ -3,10 +3,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=F0EAE6&center=true&width=435&lines=Hi%2C+I'm+J%C3%BAlia+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" /></a>
   <br>
   <img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif" alt="coding cat" width="25%">
-  <h3> <strong> I'm currently studying: </strong></h3>
- <img src="https://skillicons.dev/icons?i=lua,spring,mysql,aws">
-  <h3> <strong> Skills: </strong></h3>
+  <h3> <strong>  ゜・✭・.・✫・゜Skills ゜✭・.・✫・゜  </strong></h3>
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,django,azure,cypress">
+  <h3> <strong>  ゜✭・.・✫・゜Currently studying ゜✭・.・✫・゜ </strong></h3>
+ <img src="https://skillicons.dev/icons?i=lua,spring,mysql">
+  <h3> <strong> ゜✭・.・✫・゜ Interested in studying ゜✭・.・✫・゜  </strong></h3>
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,aws">
 </div>
  <br>
  <div align="center">
