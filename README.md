@@ -1,13 +1,13 @@
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=F0EAE6&center=true&width=435&lines=Hi%2C+I'm+J%C3%BAlia+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="40%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+J%C3%BAlia+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="40%" />
   </a>
   <br>
   <a href="https://mail.google.com/mail/u/?authuser=juliasalesnovaiss@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=0061C3" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=FFB6C1" /></a>
 
   <a href="www.linkedin.com/in/julia-sales-novais" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0061C3&link=www.linkedin.com/in/julia-sales-novais" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=FFB6C1&link=www.linkedin.com/in/julia-sales-novais" /></a>
 </div>
 <h2></h2>
   <br>
