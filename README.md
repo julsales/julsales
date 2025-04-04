@@ -15,11 +15,11 @@
 
 <div align="left">
   <p>
-  <h3><strong> 📖 My Skills </strong> </h3>
+  <h3><strong> 💻 My Skills </strong> </h3>
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,django,azure,cypress" width="30%">
   </p>  
   <p>  
-  <h3><strong> 💻 Currently Studying </strong></h3>
+  <h3><strong> 📖 Currently Studying </strong></h3>
   <img src="https://skillicons.dev/icons?i=lua,spring,mysql" width="11%">   
   </p> 
  </div> 
