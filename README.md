@@ -3,11 +3,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+J%C3%BAlia+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="40%" />
   </a>
   <br>
-  <a href=" https://mail.google.com/mail/u/?authuser=juliasalesnovaiss@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="mailto:juliasalesnovaiss@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
   <a href="https://linkedin.com/in/julia-sales-novais" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/julia-sales-novais" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 <h2></h2>
   <br>
