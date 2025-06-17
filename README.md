@@ -35,9 +35,15 @@
 <img src= "https://github-readme-stats.vercel.app/api?username=julsales&theme=radical" width="46%" alt="stats graph" />
 
 <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=julsales&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
- 
-</div>
 
+</div>
+<br>
+
+<div align="center"> 
+  
+<img src = "https://github-readme-stats.hackclub.dev/api/wakatime?username=5946&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+
+</div>
 
 
 <!---
