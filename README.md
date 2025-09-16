@@ -20,7 +20,7 @@
   </p>  
   <p>  
   <h3><strong> 📖 Currently Studying </strong></h3>
-  <img src="https://skillicons.dev/icons?i=lua,spring,mysql,godot" width="11%">   
+  <img src="https://skillicons.dev/icons?i=lua,spring,mysql,godot" width="15%">   
   </p> 
  </div> 
  
