@@ -16,11 +16,13 @@
 <div align="left">
   <p>
   <h3><strong> 💻 My Skills </strong> </h3>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,django,azure,cypress" width="30%">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css" width="20%">
+  <br>
+  <img src="https://skillicons.dev/icons?i=django,azure,cypress,mysql,spring" width="20%">
   </p>  
   <p>  
   <h3><strong> 📖 Currently Studying </strong></h3>
-  <img src="https://skillicons.dev/icons?i=lua,spring,mysql,godot" width="15%">   
+  <img src="https://skillicons.dev/icons?i=lua,docker,nginx,flask" width="15%">   
   </p> 
  </div> 
  
