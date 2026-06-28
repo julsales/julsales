@@ -28,11 +28,11 @@
   </p> 
  </div> 
  
- <div align="center">
+ <!-- <div align="center">
   <br><h2></h2><br>
   !! Link Quebrado, irei auto hostear em breve !!
-<!-- <img src="https://https://https://github-profile-trophy-fork-two.vercel.app/?username=julsales&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />  -->
- </div>
+<img src="https://https://https://github-profile-trophy-fork-two.vercel.app/?username=julsales&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
+ </div> -->
 
 <br><h2></h2><br>
 
